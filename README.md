@@ -1,4 +1,5 @@
-# Segregate-0-and-1
+//Segregate-0-and-1
+
 
 class Solution {
     void segregate0and1(int[] arr) {
@@ -20,3 +21,4 @@ class Solution {
         
     }
 }
+
